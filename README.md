@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## AICL2018
 
 You can use the [editor on GitHub](https://github.com/Dragoninja49/AICL2018/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
