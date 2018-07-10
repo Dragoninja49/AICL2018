@@ -12,3 +12,4 @@ In theory the objective of a game of Hearthstone is simple: reduce the enemy her
 
 Completing a match will grant each player's hero experience, slowly increasing their level, and granting them access to extra cards. While concluding a match will reward both players with experience, winning matches offers additional rewards. 
 
+https://d1u5p3l4wpay3k.cloudfront.net/hearthstone_gamepedia/thumb/d/d2/Ui-guide-small.png/800px-Ui-guide-small.png?version=ffa382b0e9f7ef6bd9370caa2024e820
