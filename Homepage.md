@@ -5,5 +5,5 @@ Dragoninja #1573
 
 ## Deck Guides
 
-Big spell Mage
+[Big spell Mage](/Big-Spell-Mage.md)
 
