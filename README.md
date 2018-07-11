@@ -1,7 +1,7 @@
 ## Dusted Decks
 Competive Legend Player, High ranking tournament competitor, and Hearthstone Fanatic
-https://www.youtube.com/channel/UCiu_YZYpeyNgOZk5w6OJkKQ
 Dragoninja #1573 
+[Youtube](/https://www.youtube.com/channel/UCiu_YZYpeyNgOZk5w6OJkKQ)
 
 
 
