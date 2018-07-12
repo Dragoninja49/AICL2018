@@ -3,7 +3,9 @@ Competive Legend Player, High ranking tournament competitor, and Hearthstone Fan
 Dragoninja #1573 
 [Youtube](https://www.youtube.com/channel/UCiu_YZYpeyNgOZk5w6OJkKQ)
 
-![Hearthstone Logo](/https://www.photospng.com/uploads/hearthstone-logo-heroes-of-warcraft-transparent.png){:class="img-responsive"}
+![Hearthstone Logo](/https://www.photospng.com/uploads/hearthstone-logo-heroes-of-warcraft-transparent.png)
+Format: ![Alt Text](url)
+
 
 ## Deck Guides
 
