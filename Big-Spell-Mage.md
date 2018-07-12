@@ -3,3 +3,5 @@ Big spell Mage is a control deck centered around cards that synergise with high 
 
 
 [Decklist](https://www.hearthpwn.com/decks/1136197-big-spell-mage-74-winrate)
+Copy Below To Clipboard;
+AAECAf0ECtAC7AebwgLTxQKgzgLCzgKb0wLy0wKj6wKm8AIKTYoByQOWxwLV4QLX4QKW5ALq5gK+7AK38QIA
