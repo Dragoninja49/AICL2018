@@ -9,3 +9,9 @@ Dragoninja #1573
 
 [Big spell Mage](/Big-Spell-Mage.md)
 
+
+
+
+## Card Guides
+
+[Colbalt Scalebane](/Colbalt-Scalebane.md)
