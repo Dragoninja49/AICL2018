@@ -1,3 +1,3 @@
 
-![Branching](https://media-hearth.cursecdn.com/avatars/339/318/62851.png)
+![Branching](http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/ICC_029_premium.gif)
 
