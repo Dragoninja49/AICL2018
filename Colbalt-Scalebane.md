@@ -4,8 +4,10 @@ Colbalt scalebane is a solid statted minion most commonly played in aggro or mid
 
 ## Rating
 Standard 3/5
+
 Arena    5/5
-Crafting teir:1
+
+Crafting teir: 1
 
 ![Branching](http://media.services.zam.com/v1/media/byName/hs/cards/enus/animated/ICC_029_premium.gif)
 
